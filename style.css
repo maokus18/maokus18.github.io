@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+  font-family: "gill sans", Arial, sans-serif;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-right: 50px;
+}
+
+h1 {
+  font-family: "american typewriter", times, serif;
+  text-align: center;
+}
